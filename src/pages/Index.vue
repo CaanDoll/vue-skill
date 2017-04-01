@@ -6,9 +6,15 @@
 <style>
 </style>
 <script>
+  import zrender from 'zrender';
   export default {
     data () {
-        return
+        return {
+
+        }
+    },
+    mounted(){
+        console.log(zrender)
     }
   }
 </script>
