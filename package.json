@@ -1,7 +1,7 @@
 {
-  "name": "vue-skill",
+  "name": "vue-zrender",
   "version": "1.0.0",
-  "description": "skillTree by vue",
+  "description": "skillTree by vue-zrender",
   "author": "caandoll <caandoll@aliyun.com>",
   "private": true,
   "scripts": {
@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "vue": "^2.2.2",
-    "vue-router": "^2.2.0"
+    "vue-router": "^2.2.0",
+    "zrender": "^3.4.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
